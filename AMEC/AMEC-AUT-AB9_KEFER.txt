@@ -1,0 +1,79 @@
+﻿Interbus
+* Übertragungsraten
+   * 500 kBit/s, bzw. 2MBit/s
+* Übertragungslängen
+   * 20cm bis 13km
+* spezifische Eigenschaften der Netzstruktur
+   * Ringstruktur
+   * Bei Ausfall von Teilnehmer dient Ausgang vom Vordermann zur Ringschließung
+* Kabeltypen
+   * Kupferkabel
+   * LWL
+* Steckertypen
+   * RS-485
+   * Busklemmen
+CAN-Bus
+* Übertragungsraten
+   * 1 MBit/s, bzw. 500 kBit/s, bzw. 125 kBit/s
+* Übertragungslängen
+   * N.A., bzw. 100m, bzw. 500m
+* spezifische Eigenschaften der Netzstruktur
+   * Bustopologie
+* Kabeltypen
+   * Kupferkabel - Verdrilltes Paar
+* Steckertypen
+   * 4-Pin Rundsteckverbindung
+   * 4-Pin Schraubklemme
+   * CAN-OBD
+ASI
+* Übertragungsraten
+* Übertragungslängen
+   * 100m, bzw. 300m
+* spezifische Eigenschaften der Netzstruktur
+   * Linien
+   * Ring
+   * gemischt
+* Kabeltypen
+   * Flachkabel
+   * Rundkabel
+* Steckertypen
+   * Klemmen
+   * 5-/4-Pin-Rundsteckverbindung
+Profibus / Profibus DP
+* Übertragungsraten
+   * 12 MBit/s
+   * 31,25 kBit/s
+   * 9,6 kBit/s bis 12 MBit/s
+* Übertragungslängen
+   * elektrisch: 100m bis 1200m
+   * LWL: bis zu 15km
+* spezifische Eigenschaften der Netzstruktur
+   * Bustopologie, Ringtopologie
+   * LWL: Stern-/Ring-/Bustopologie
+* Kabeltypen
+   * Kupferkabel
+* Steckertypen
+   * RS-485
+Ethernet
+* Übertragungsraten
+   * 1Megabit/s bis 400Gigabit/s
+* Übertragungslängen
+   * Kupferkabel: bis zu 2,5km
+   * LWL: bis zu 70km
+* spezifische Eigenschaften der Netzstruktur
+   * Baum-/Stern-/Linientopologie
+* Kabeltypen
+   * Kupfer
+   * LWL
+* Steckertypen
+   * RJ45 / RJ48
+   * SC / LC / TOSLINK
+Internet / Intranet
+* Internet ist eine Netzart und keine spezielle Normierung und somit ist nicht klar zu stellen, wie schnell oder wie weit eine Übertragung erfolgen kann. Das Internet besteht zu einem Großteil aus Ethernet-Verbindungen.
+
+
+________________
+
+
+Kefer Thomas
+4AWHII
